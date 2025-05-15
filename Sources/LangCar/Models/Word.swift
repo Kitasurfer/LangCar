@@ -1,27 +1,25 @@
 import Foundation
 
-public struct Word: Identifiable, Codable, Equatable {
-    public let id: String            // ULID
-    public let original: String      // Das Buch
-    public let gender: GermanGender  // der/die/das
-    public let translation: String   // Книга
-    public let plural: String?       // Bücher
-    public let difficulty: Difficulty
+public struct Word: Identifiable, Codable, Equatable, Sendable {
+    public let id: String              // ULID
+    public let original: String        // Немецкое
+    public let gender: GermanGender
+    public let translation: String     // Русский
+    public let plural: String?
+    public var difficulty: Difficulty
     public var lastSeen: Date?
     public var nextReviewDate: Date?
-    
-    public init(original: String, gender: GermanGender, translation: String, plural: String? = nil) {
+
+    public init(original: String,
+                gender: GermanGender,
+                translation: String,
+                plural: String? = nil,
+                difficulty: Difficulty = .medium) {
         self.id = ULID().string
         self.original = original
         self.gender = gender
         self.translation = translation
         self.plural = plural
-        self.difficulty = .medium
+        self.difficulty = difficulty
     }
-}
-
-public enum GermanGender: String, Codable {
-    case masculine = "der"
-    case feminine = "die"
-    case neuter = "das"
 }

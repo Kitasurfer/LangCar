@@ -1,39 +1,22 @@
 import Foundation
 import ComposableArchitecture
 
-struct AppReducer: Reducer {
-    struct State: Equatable {
-        var homeState = HomeState()
-        var dictionaryState = DictionaryState()
-        var flashcardsState = FlashcardState()
-        var quizState = QuizState()
-        var favoritesState = FavoritesState()
-        var settingsState = SettingsState()
-    }
-    
-    enum Action {
-        case home(HomeAction)
-        case dictionary(DictionaryAction)
-        case flashcards(FlashcardAction)
-        case quiz(QuizAction)
-        case favorites(FavoritesAction)
-        case settings(SettingsAction)
-    }
-    
-    var body: some ReducerOf<Self> {
+public struct AppReducer: Reducer {
+    public init() {}
+    public var body: some Reducer<AppState, AppAction> {
         Reduce { state, action in
             switch action {
-            case .home:
+            case .loadSampleData:
+                state.words = [
+                    Word(original: "Haus", gender: .das, translation: "Дом", plural: "Häuser"),
+                    Word(original: "Baum", gender: .der, translation: "Дерево", plural: "Bäume")
+                ].identified
                 return .none
-            case .dictionary:
+            case let .addWord(word):
+                state.words.append(word)
                 return .none
-            case .flashcards:
-                return .none
-            case .quiz:
-                return .none
-            case .favorites:
-                return .none
-            case .settings:
+            case let .removeWord(id):
+                state.words.remove(id: id)
                 return .none
             }
         }
