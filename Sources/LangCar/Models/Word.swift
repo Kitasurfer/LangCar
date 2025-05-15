@@ -9,6 +9,7 @@ public struct Word: Identifiable, Codable, Equatable, Sendable {
     public var difficulty: Difficulty
     public var lastSeen: Date?
     public var nextReviewDate: Date?
+    public var easeFactor: Double?  // for SRS
 
     public init(original: String,
                 gender: GermanGender,
