@@ -6,13 +6,21 @@ public actor NotificationManager {
     private init() {}
     
     public func requestAuthorization() async {
-        try? await UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge])
+        do {
+            let granted = try await UNUserNotificationCenter.current()
+                .requestAuthorization(options: [.alert, .sound, .badge])
+            if !granted {
+                print("Пользователь отклонил запрос уведомлений")
+            }
+        } catch {
+            print("Ошибка при запросе авторизации уведомлений: \(error)")
+        }
     }
     
     /// Schedule reminder at explicit hour (0-23)
     public func scheduleDailyReminder(hour: Int, wordsDue: Int) async {
         let center = UNUserNotificationCenter.current()
-        await center.removeAllPendingNotificationRequests()
+        center.removeAllPendingNotificationRequests()
         guard wordsDue > 0 else { return }
         var dc = DateComponents()
         dc.hour = hour
@@ -21,7 +29,11 @@ public actor NotificationManager {
         c.title = "LangCar"
         c.body = "Сегодня нужно повторить \(wordsDue) слов. За руль! 🚗"
         let req = UNNotificationRequest(identifier: "dailyReview", content: c, trigger: trig)
-        await center.add(req)
+        do {
+            try await center.add(req)
+        } catch {
+            print("Ошибка при планировании ежедневного напоминания: \(error)")
+        }
     }
 
     /// Smart: если autoMode = true, час = ранее сохранённый час (<12 → 8, иначе 20)

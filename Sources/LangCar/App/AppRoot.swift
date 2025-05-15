@@ -8,7 +8,15 @@ struct LangCarApp: App {
     let cloud: CloudSyncService? = nil
     var body: some Scene {
         WindowGroup {
-            TabRootView(store: Store(initialState: AppState()) { AppReducer(repository: repository) })
+            if #available(iOS 16.0, macOS 13.0, *) {
+                NavigationStack {
+                    StartView(store: Store(initialState: StartState()) { StartReducer() })
+                }
+            } else {
+                NavigationView {
+                    StartView(store: Store(initialState: StartState()) { StartReducer() })
+                }
+            }
         }
     }
 }
@@ -20,25 +28,25 @@ public struct TabRootView: View {
         TabView {
 
             IfLetStore(
-                store.scope(state: { $0.dictionary }, action: { AppAction.dictionary($0) })
+                store.scope(state: \.dictionary, action: \.dictionary)
             ) { DictionaryView(store: $0) }
             .tabItem { Label("Словарь", systemImage: "list.bullet") }
 
 
             IfLetStore(
-                store.scope(state: { $0.flashcards }, action: { AppAction.flashcards($0) })
+                store.scope(state: \.flashcards, action: \.flashcards)
             ) { FlashcardsView(store: $0) }
             .tabItem { Label("Карточки", systemImage: "rectangle.stack") }
 
 
             IfLetStore(
-                store.scope(state: { $0.roadmap }, action: { AppAction.roadmap($0) })
+                store.scope(state: \.roadmap, action: \.roadmap)
             ) { RoadMapView(store: $0) }
             .tabItem { Label("Карта", systemImage: "map") }
 
 
             IfLetStore(
-                store.scope(state: { $0.settings }, action: { AppAction.settings($0) })
+                store.scope(state: \.settings, action: \.settings)
             ) { SettingsView(store: $0) }
             .tabItem { Label("Настройки", systemImage: "gear") }
         }
@@ -80,19 +88,19 @@ public struct AppReducer: Reducer {
             
 
             Reduce<AppState, AppAction> { _, _ in .none }
-                .ifLet(\.dictionary, action: /AppAction.dictionary) { 
+                .ifLet(\.dictionary, action: \.dictionary) { 
                     DictionaryReducer(repo: repository)
                 }
-                .ifLet(\.flashcards, action: /AppAction.flashcards) { 
+                .ifLet(\.flashcards, action: \.flashcards) { 
                     FlashSessionReducer(repo: repository)
                 }
-                .ifLet(\.roadmap, action: /AppAction.roadmap) { 
+                .ifLet(\.roadmap, action: \.roadmap) { 
                     RoadMapReducer()
                 }
-                .ifLet(\.race, action: /AppAction.race) { 
+                .ifLet(\.race, action: \.race) { 
                     RaceReducer()
                 }
-                .ifLet(\.settings, action: /AppAction.settings) { 
+                .ifLet(\.settings, action: \.settings) { 
                     SettingsReducer(cloud: cloud, repo: repository)
                 }
         }
