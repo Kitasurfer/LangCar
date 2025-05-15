@@ -9,4 +9,11 @@ public enum GermanGender: String, Codable, CaseIterable, Equatable, Sendable {
         case .das: "Green" 
         } 
     }
+    public var colorName: String { 
+        switch self { 
+        case .der: "Blue"
+        case .die: "Pink"
+        case .das: "Green" 
+        } 
+    }
 }
