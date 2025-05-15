@@ -11,7 +11,7 @@ struct AppButton: View {
                 .foregroundColor(.white)
                 .frame(maxWidth: .infinity)
                 .padding()
-                .background(Color.accentColor)
+                .background(SwiftUI.Color.accentColor)
                 .cornerRadius(12)
         }
     }

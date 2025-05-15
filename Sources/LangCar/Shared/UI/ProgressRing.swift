@@ -2,7 +2,7 @@ import SwiftUI
 
 struct ProgressRing: View {
     let progress: Double
-    let color: Color
+    let color: SwiftUI.Color
     
     var body: some View {
         ZStack {

@@ -22,5 +22,3509 @@
     "translation": "Цветок",
     "plural": "Blumen",
     "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTV",
+    "original": "Tisch",
+    "gender": "der",
+    "translation": "Стол",
+    "plural": "Tische",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTW",
+    "original": "Stuhl",
+    "gender": "der",
+    "translation": "Стул",
+    "plural": "Stühle",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTX",
+    "original": "Buch",
+    "gender": "das",
+    "translation": "Книга",
+    "plural": "Bücher",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTY",
+    "original": "Fenster",
+    "gender": "das",
+    "translation": "Окно",
+    "plural": "Fenster",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTZ",
+    "original": "Tür",
+    "gender": "die",
+    "translation": "Дверь",
+    "plural": "Türen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW7ABCDEFGHIKLMNOPQRST1",
+    "original": "Apfel",
+    "gender": "der",
+    "translation": "Яблоко",
+    "plural": "Äpfel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW7ABCDEFGHIKLMNOPQRST2",
+    "original": "Hund",
+    "gender": "der",
+    "translation": "Собака",
+    "plural": "Hunde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW7ABCDEFGHIKLMNOPQRST3",
+    "original": "Fenster",
+    "gender": "das",
+    "translation": "Окно",
+    "plural": "Fenster",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ABCDEFGHIKLMNOPQRSTZ",
+    "original": "Tür",
+    "gender": "die",
+    "translation": "Дверь",
+    "plural": "Türen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6BBCDEFGHIKLMNOPQRST0",
+    "original": "Apfel",
+    "gender": "der",
+    "translation": "Яблоко",
+    "plural": "Äpfel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6BBCDEFGHIKLMNOPQRST1",
+    "original": "Banane",
+    "gender": "die",
+    "translation": "Банан",
+    "plural": "Bananen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6BBCDEFGHIKLMNOPQRST2",
+    "original": "Brot",
+    "gender": "das",
+    "translation": "Хлеб",
+    "plural": "Brote",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6BBCDEFGHIKLMNOPQRST3",
+    "original": "Wasser",
+    "gender": "das",
+    "translation": "Вода",
+    "plural": "Wässer / (selten) Wässer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6BBCDEFGHIKLMNOPQRST4",
+    "original": "Milch",
+    "gender": "die",
+    "translation": "Молоко",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6CBCDEFGHIKLMNOPQRST5",
+    "original": "Hund",
+    "gender": "der",
+    "translation": "Собака",
+    "plural": "Hunde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6CBCDEFGHIKLMNOPQRST6",
+    "original": "Katze",
+    "gender": "die",
+    "translation": "Кошка",
+    "plural": "Katzen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6CBCDEFGHIKLMNOPQRST7",
+    "original": "Vogel",
+    "gender": "der",
+    "translation": "Птица",
+    "plural": "Vögel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6CBCDEFGHIKLMNOPQRST8",
+    "original": "Fisch",
+    "gender": "der",
+    "translation": "Рыба",
+    "plural": "Fische",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6DBCDEFGHIKLMNOPQRST9",
+    "original": "Mann",
+    "gender": "der",
+    "translation": "Мужчина, Человек",
+    "plural": "Männer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6DBCDEFGHIKLMNOPQRSTA",
+    "original": "Frau",
+    "gender": "die",
+    "translation": "Женщина, Жена",
+    "plural": "Frauen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6DBCDEFGHIKLMNOPQRSTB",
+    "original": "Kind",
+    "gender": "das",
+    "translation": "Ребенок",
+    "plural": "Kinder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6EBCDEFGHIKLMNOPQRSTC",
+    "original": "Sonne",
+    "gender": "die",
+    "translation": "Солнце",
+    "plural": "Sonnen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6EBCDEFGHIKLMNOPQRSTD",
+    "original": "Mond",
+    "gender": "der",
+    "translation": "Луна",
+    "plural": "Monde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6EBCDEFGHIKLMNOPQRSTF",
+    "original": "Stern",
+    "gender": "der",
+    "translation": "Звезда",
+    "plural": "Sterne",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6FBCDEFGHIKLMNOPQRSTG",
+    "original": "Auto",
+    "gender": "das",
+    "translation": "Автомобиль",
+    "plural": "Autos",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6FBCDEFGHIKLMNOPQRSTH",
+    "original": "Straße",
+    "gender": "die",
+    "translation": "Улица",
+    "plural": "Straßen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6GBCDEFGHIKLMNOPQRSTI",
+    "original": "Stadt",
+    "gender": "die",
+    "translation": "Город",
+    "plural": "Städte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6GBCDEFGHIKLMNOPQRSTJ",
+    "original": "Land",
+    "gender": "das",
+    "translation": "Страна, Земля",
+    "plural": "Länder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6HBCDEFGHIKLMNOPQRSTK",
+    "original": "Schule",
+    "gender": "die",
+    "translation": "Школа",
+    "plural": "Schulen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6HBCDEFGHIKLMNOPQRSTL",
+    "original": "Lehrer",
+    "gender": "der",
+    "translation": "Учитель",
+    "plural": "Lehrer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6HBCDEFGHIKLMNOPQRSTM",
+    "original": "Schüler",
+    "gender": "der",
+    "translation": "Ученик",
+    "plural": "Schüler",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6IBCDEFGHIKLMNOPQRSTN",
+    "original": "Freund",
+    "gender": "der",
+    "translation": "Друг",
+    "plural": "Freunde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6IBCDEFGHIKLMNOPQRSTP",
+    "original": "Familie",
+    "gender": "die",
+    "translation": "Семья",
+    "plural": "Familien",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6JBCDEFGHIKLMNOPQRSTQ",
+    "original": "Arbeit",
+    "gender": "die",
+    "translation": "Работа",
+    "plural": "Arbeiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGW6JBCDEFGHIKLMNOPRSTR",
+    "original": "Geld",
+    "gender": "das",
+    "translation": "Деньги",
+    "plural": "Gelder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6KBCDEFGHIKLMNOPRSTS",
+    "original": "Zeit",
+    "gender": "die",
+    "translation": "Время",
+    "plural": "Zeiten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6KBCDEFGHIKLMNOPRSTT",
+    "original": "Tag",
+    "gender": "der",
+    "translation": "День",
+    "plural": "Tage",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6LBCDEFGHIKLMNOPRSTU",
+    "original": "Nacht",
+    "gender": "die",
+    "translation": "Ночь",
+    "plural": "Nächte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6LBCDEFGHIKLMNOPRSTV",
+    "original": "Woche",
+    "gender": "die",
+    "translation": "Неделя",
+    "plural": "Wochen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6MBCDEFGHIKLMNOPRSTW",
+    "original": "Monat",
+    "gender": "der",
+    "translation": "Месяц",
+    "plural": "Monate",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6MBCDEFGHIKLMNOPRSTX",
+    "original": "Jahr",
+    "gender": "das",
+    "translation": "Год",
+    "plural": "Jahre",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6NBCDEFGHIKLMNOPRSTY",
+    "original": "Kopf",
+    "gender": "der",
+    "translation": "Голова",
+    "plural": "Köpfe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6NBCDEFGHIKLMNOPRSTZ",
+    "original": "Hand",
+    "gender": "die",
+    "translation": "Рука (кисть)",
+    "plural": "Hände",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6PBCDEFGHIKLMNOPRST0",
+    "original": "Fuß",
+    "gender": "der",
+    "translation": "Нога (стопа)",
+    "plural": "Füße",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6QBCDEFGHIKLMNOPRST1",
+    "original": "Auge",
+    "gender": "das",
+    "translation": "Глаз",
+    "plural": "Augen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6RBCDEFGHIKLMNOPRST2",
+    "original": "Ohr",
+    "gender": "das",
+    "translation": "Ухо",
+    "plural": "Ohren",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6SBCDEFGHIKLMNOPRST3",
+    "original": "Nase",
+    "gender": "die",
+    "translation": "Нос",
+    "plural": "Nasen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6TBCDEFGHIKLMNOPRST4",
+    "original": "Mund",
+    "gender": "der",
+    "translation": "Рот",
+    "plural": "Münder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6UBCDEFGHIKLMNOPRST5",
+    "original": "Farbe",
+    "gender": "die",
+    "translation": "Цвет, Краска",
+    "plural": "Farben",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6VBCDEFGHIKLMNOPRST6",
+    "original": "Spiel",
+    "gender": "das",
+    "translation": "Игра",
+    "plural": "Spiele",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6WBCDEFGHIKLMNOPRST7",
+    "original": "Musik",
+    "gender": "die",
+    "translation": "Музыка",
+    "plural": "Musiken (selten, Stile)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6XBCDEFGHIKLMNOPRST8",
+    "original": "Lied",
+    "gender": "das",
+    "translation": "Песня",
+    "plural": "Lieder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6YBCDEFGHIKLMNOPRST9",
+    "original": "Bild",
+    "gender": "das",
+    "translation": "Картина, Изображение",
+    "plural": "Bilder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW6ZBCDEFGHIKLMNOPRSTA",
+    "original": "Wort",
+    "gender": "das",
+    "translation": "Слово",
+    "plural": "Wörter / Worte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7ABCDEFGHIKLMNOPQRSTB",
+    "original": "Satz",
+    "gender": "der",
+    "translation": "Предложение, Прыжок",
+    "plural": "Sätze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7BBCDEFGHIKLMNOPQRSTC",
+    "original": "Frage",
+    "gender": "die",
+    "translation": "Вопрос",
+    "plural": "Fragen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7CBCDEFGHIKLMNOPQRSTD",
+    "original": "Antwort",
+    "gender": "die",
+    "translation": "Ответ",
+    "plural": "Antworten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7DBCDEFGHIKLMNOPQRSTF",
+    "original": "Problem",
+    "gender": "das",
+    "translation": "Проблема",
+    "plural": "Probleme",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7EBCDEFGHIKLMNOPQRSTG",
+    "original": "Lösung",
+    "gender": "die",
+    "translation": "Решение",
+    "plural": "Lösungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7FBCDEFGHIKLMNOPQRSTH",
+    "original": "Idee",
+    "gender": "die",
+    "translation": "Идея",
+    "plural": "Ideen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7GBCDEFGHIKLMNOPQRSTI",
+    "original": "Hilfe",
+    "gender": "die",
+    "translation": "Помощь",
+    "plural": "Hilfen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7HBCDEFGHIKLMNOPQRSTJ",
+    "original": "Geschenk",
+    "gender": "das",
+    "translation": "Подарок",
+    "plural": "Geschenke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7IBCDEFGHIKLMNOPQRSTK",
+    "original": "Reise",
+    "gender": "die",
+    "translation": "Путешествие",
+    "plural": "Reisen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7JBCDEFGHIKLMNOPQRSTL",
+    "original": "Zug",
+    "gender": "der",
+    "translation": "Поезд",
+    "plural": "Züge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7KBCDEFGHIKLMNOPQRSTM",
+    "original": "Flugzeug",
+    "gender": "das",
+    "translation": "Самолет",
+    "plural": "Flugzeuge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7LBCDEFGHIKLMNOPQRSTN",
+    "original": "Hafen",
+    "gender": "der",
+    "translation": "Порт, Гавань",
+    "plural": "Häfen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7MBCDEFGHIKLMNOPQRSTP",
+    "original": "Schiff",
+    "gender": "das",
+    "translation": "Корабль",
+    "plural": "Schiffe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7NBCDEFGHIKLMNOPQRSTQ",
+    "original": "Markt",
+    "gender": "der",
+    "translation": "Рынок",
+    "plural": "Märkte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7PBCDEFGHIKLMNOPQRSTR",
+    "original": "Geschäft",
+    "gender": "das",
+    "translation": "Магазин, Дело",
+    "plural": "Geschäfte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7QBCDEFGHIKLMNOPRSTS",
+    "original": "Büro",
+    "gender": "das",
+    "translation": "Офис, Бюро",
+    "plural": "Büros",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7RBCDEFGHIKLMNOPRSTT",
+    "original": "Computer",
+    "gender": "der",
+    "translation": "Компьютер",
+    "plural": "Computer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7SBCDEFGHIKLMNOPRSTU",
+    "original": "Handy",
+    "gender": "das",
+    "translation": "Мобильный телефон",
+    "plural": "Handys",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX7TBCDEFGHIKLMNOPRSTV",
+    "original": "Internet",
+    "gender": "das",
+    "translation": "Интернет",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7UBCDEFGHIKLMNOPRSTW",
+    "original": "Universität",
+    "gender": "die",
+    "translation": "Университет",
+    "plural": "Universitäten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7VBCDEFGHIKLMNOPRSTX",
+    "original": "Student",
+    "gender": "der",
+    "translation": "Студент",
+    "plural": "Studenten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7WBCDEFGHIKLMNOPRSTY",
+    "original": "Professor",
+    "gender": "der",
+    "translation": "Профессор",
+    "plural": "Professoren",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7XBCDEFGHIKLMNOPRSTZ",
+    "original": "Bibliothek",
+    "gender": "die",
+    "translation": "Библиотека",
+    "plural": "Bibliotheken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7YBCDEFGHIKLMNOPQRSU0",
+    "original": "Krankenhaus",
+    "gender": "das",
+    "translation": "Больница",
+    "plural": "Krankenhäuser",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX7ZBCDEFGHIKLMNOPQRSU1",
+    "original": "Arzt",
+    "gender": "der",
+    "translation": "Врач",
+    "plural": "Ärzte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8ABCDEFGHIKLMNOPQRSU2",
+    "original": "Krankheit",
+    "gender": "die",
+    "translation": "Болезнь",
+    "plural": "Krankheiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8BBCDEFGHIKLMNOPQRSU3",
+    "original": "Medikament",
+    "gender": "das",
+    "translation": "Лекарство",
+    "plural": "Medikamente",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8CBCDEFGHIKLMNOPQRSU4",
+    "original": "Wetter",
+    "gender": "das",
+    "translation": "Погода",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8DBCDEFGHIKLMNOPQRSU5",
+    "original": "Regen",
+    "gender": "der",
+    "translation": "Дождь",
+    "plural": "Regen (selten Regenfälle)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8EBCDEFGHIKLMNOPQRSU6",
+    "original": "Schnee",
+    "gender": "der",
+    "translation": "Снег",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8FBCDEFGHIKLMNOPQRSU7",
+    "original": "Wind",
+    "gender": "der",
+    "translation": "Ветер",
+    "plural": "Winde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8GBCDEFGHIKLMNOPQRSU8",
+    "original": "Himmel",
+    "gender": "der",
+    "translation": "Небо",
+    "plural": "Himmel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8HBCDEFGHIKLMNOPQRSU9",
+    "original": "Erde",
+    "gender": "die",
+    "translation": "Земля (планета, почва)",
+    "plural": "Erden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8IBCDEFGHIKLMNOPQRSUA",
+    "original": "Feuer",
+    "gender": "das",
+    "translation": "Огонь",
+    "plural": "Feuer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8JBCDEFGHIKLMNOPQRSUB",
+    "original": "Luft",
+    "gender": "die",
+    "translation": "Воздух",
+    "plural": "Lüfte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8KBCDEFGHIKLMNOPQRSUC",
+    "original": "Meer",
+    "gender": "das",
+    "translation": "Море",
+    "plural": "Meere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8LBCDEFGHIKLMNOPQRSUD",
+    "original": "Fluss",
+    "gender": "der",
+    "translation": "Река",
+    "plural": "Flüsse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8MBCDEFGHIKLMNOPQRSUE",
+    "original": "See",
+    "gender": "der",
+    "translation": "Озеро (муж.р.)",
+    "plural": "Seen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8NBCDEFGHIKLMNOPQRSUF",
+    "original": "See",
+    "gender": "die",
+    "translation": "Море (жен.р., поэтич.)",
+    "plural": "Seen (selten)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8PBCDEFGHIKLMNOPQRSUG",
+    "original": "Berg",
+    "gender": "der",
+    "translation": "Гора",
+    "plural": "Berge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8QBCDEFGHIKLMNOPQRSUH",
+    "original": "Wald",
+    "gender": "der",
+    "translation": "Лес",
+    "plural": "Wälder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8RBCDEFGHIKLMNOPQRSUI",
+    "original": "Feld",
+    "gender": "das",
+    "translation": "Поле",
+    "plural": "Felder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8SBCDEFGHIKLMNOPQRSUJ",
+    "original": "Wiese",
+    "gender": "die",
+    "translation": "Луг",
+    "plural": "Wiesen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8TBCDEFGHIKLMNOPQRSUK",
+    "original": "Garten",
+    "gender": "der",
+    "translation": "Сад",
+    "plural": "Gärten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX8UBCDEFGHIKLMNOPQRSUL",
+    "original": "Brücke",
+    "gender": "die",
+    "translation": "Мост",
+    "plural": "Brücken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8VBCDEFGHIKLMNOPQRSUM",
+    "original": "Turm",
+    "gender": "der",
+    "translation": "Башня",
+    "plural": "Türme",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8WBCDEFGHIKLMNOPQRSUN",
+    "original": "Kirche",
+    "gender": "die",
+    "translation": "Церковь",
+    "plural": "Kirchen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8XBCDEFGHIKLMNOPQRSUP",
+    "original": "Schloss",
+    "gender": "das",
+    "translation": "Замок (дворец), Замо́к (дверной)",
+    "plural": "Schlösser",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8YBCDEFGHIKLMNOPQRSUQ",
+    "original": "König",
+    "gender": "der",
+    "translation": "Король",
+    "plural": "Könige",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX8ZBCDEFGHIKLMNOPQRSUR",
+    "original": "Königin",
+    "gender": "die",
+    "translation": "Королева",
+    "plural": "Königinnen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX90BCDEFGHIKLMNOPQRSUS",
+    "original": "Prinz",
+    "gender": "der",
+    "translation": "Принц",
+    "plural": "Prinzen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX91BCDEFGHIKLMNOPQRSUT",
+    "original": "Prinzessin",
+    "gender": "die",
+    "translation": "Принцесса",
+    "plural": "Prinzessinnen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX92BCDEFGHIKLMNOPQRSUU",
+    "original": "Geschichte",
+    "gender": "die",
+    "translation": "История, Рассказ",
+    "plural": "Geschichten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX93BCDEFGHIKLMNOPQRSUV",
+    "original": "Krieg",
+    "gender": "der",
+    "translation": "Война",
+    "plural": "Kriege",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX94BCDEFGHIKLMNOPQRSUW",
+    "original": "Frieden",
+    "gender": "der",
+    "translation": "Мир (отсутствие войны)",
+    "plural": "Frieden (selten)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX95BCDEFGHIKLMNOPQRSUX",
+    "original": "Liebe",
+    "gender": "die",
+    "translation": "Любовь",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX96BCDEFGHIKLMNOPQRSUY",
+    "original": "Hass",
+    "gender": "der",
+    "translation": "Ненависть",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX97BCDEFGHIKLMNOPQRSUZ",
+    "original": "Freude",
+    "gender": "die",
+    "translation": "Радость",
+    "plural": "Freuden",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX98BCDEFGHIKLMNOPQRSV0",
+    "original": "Trauer",
+    "gender": "die",
+    "translation": "Печаль, Скорбь",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX99BCDEFGHIKLMNOPQRSV1",
+    "original": "Angst",
+    "gender": "die",
+    "translation": "Страх",
+    "plural": "Ängste",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9ABCDEFGHIKLMNOPQRSV2",
+    "original": "Mut",
+    "gender": "der",
+    "translation": "Смелость, Мужество",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9BBCDEFGHIKLMNOPQRSV3",
+    "original": "Glück",
+    "gender": "das",
+    "translation": "Счастье, Удача",
+    "plural": "(kein Plural für Glück=Schatстье, Glücke=случаи удачи)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9CBCDEFGHIKLMNOPQRSV4",
+    "original": "Unglück",
+    "gender": "das",
+    "translation": "Несчастье, Беда",
+    "plural": "Unglücke",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9DBCDEFGHIKLMNOPQRSV5",
+    "original": "Traum",
+    "gender": "der",
+    "translation": "Сон, Мечта",
+    "plural": "Träume",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9EBCDEFGHIKLMNOPQRSV6",
+    "original": "Wirklichkeit",
+    "gender": "die",
+    "translation": "Действительность, Реальность",
+    "plural": "Wirklichkeiten",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGX9FBCDEFGHIKLMNOPQRSV7",
+    "original": "Wahrheit",
+    "gender": "die",
+    "translation": "Правда, Истина",
+    "plural": "Wahrheiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9GBCDEFGHIKLMNOPQRSV8",
+    "original": "Lüge",
+    "gender": "die",
+    "translation": "Ложь",
+    "plural": "Lügen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9HBCDEFGHIKLMNOPQRSV9",
+    "original": "Gesetz",
+    "gender": "das",
+    "translation": "Закон",
+    "plural": "Gesetze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9IBCDEFGHIKLMNOPQRSVA",
+    "original": "Regel",
+    "gender": "die",
+    "translation": "Правило",
+    "plural": "Regeln",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9JBCDEFGHIKLMNOPQRSVB",
+    "original": "Kunst",
+    "gender": "die",
+    "translation": "Искусство",
+    "plural": "Künste",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9KBCDEFGHIKLMNOPQRSVC",
+    "original": "Wissenschaft",
+    "gender": "die",
+    "translation": "Наука",
+    "plural": "Wissenschaften",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9LBCDEFGHIKLMNOPQRSVD",
+    "original": "Sprache",
+    "gender": "die",
+    "translation": "Язык (речь)",
+    "plural": "Sprachen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9MBCDEFGHIKLMNOPQRSVE",
+    "original": "Natur",
+    "gender": "die",
+    "translation": "Природа",
+    "plural": "Naturen (selten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9NBCDEFGHIKLMNOPQRSVF",
+    "original": "Technik",
+    "gender": "die",
+    "translation": "Техника",
+    "plural": "Techniken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGX9PBCDEFGHIKLMNOPQRSVG",
+    "original": "Mensch",
+    "gender": "der",
+    "translation": "Человек",
+    "plural": "Menschen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9QBCDEFGHIKLMNOPQRSVH",
+    "original": "Tier",
+    "gender": "das",
+    "translation": "Животное",
+    "plural": "Tiere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9RBCDEFGHIKLMNOPQRSVI",
+    "original": "Pflanze",
+    "gender": "die",
+    "translation": "Растение",
+    "plural": "Pflanzen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9SBCDEFGHIKLMNOPQRSVJ",
+    "original": "Messer",
+    "gender": "das",
+    "translation": "Нож",
+    "plural": "Messer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9TBCDEFGHIKLMNOPQRSVK",
+    "original": "Gabel",
+    "gender": "die",
+    "translation": "Вилка",
+    "plural": "Gabeln",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9UBCDEFGHIKLMNOPQRSVL",
+    "original": "Löffel",
+    "gender": "der",
+    "translation": "Ложка",
+    "plural": "Löffel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9VBCDEFGHIKLMNOPQRSVM",
+    "original": "Teller",
+    "gender": "der",
+    "translation": "Тарелка",
+    "plural": "Teller",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9WBCDEFGHIKLMNOPQRSVN",
+    "original": "Tasse",
+    "gender": "die",
+    "translation": "Чашка",
+    "plural": "Tassen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9XBCDEFGHIKLMNOPQRSVP",
+    "original": "Glas",
+    "gender": "das",
+    "translation": "Стакан, Стекло",
+    "plural": "Gläser",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9YBCDEFGHIKLMNOPQRSVQ",
+    "original": "Flasche",
+    "gender": "die",
+    "translation": "Бутылка",
+    "plural": "Flaschen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGX9ZBCDEFGHIKLMNOPQRSVR",
+    "original": "Schlüssel",
+    "gender": "der",
+    "translation": "Ключ",
+    "plural": "Schlüssel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA0BCDEFGHIKLMNOPQRSVS",
+    "original": "Tasche",
+    "gender": "die",
+    "translation": "Сумка, Карман",
+    "plural": "Taschen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA1BCDEFGHIKLMNOPQRSVT",
+    "original": "Hemd",
+    "gender": "das",
+    "translation": "Рубашка",
+    "plural": "Hemden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA2BCDEFGHIKLMNOPQRSVU",
+    "original": "Hose",
+    "gender": "die",
+    "translation": "Брюки, Штаны",
+    "plural": "Hosen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA3BCDEFGHIKLMNOPQRSVV",
+    "original": "Schuh",
+    "gender": "der",
+    "translation": "Ботинок, Туфля",
+    "plural": "Schuhe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA4BCDEFGHIKLMNOPQRSVW",
+    "original": "Jacke",
+    "gender": "die",
+    "translation": "Куртка, Пиджак",
+    "plural": "Jacken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA5BCDEFGHIKLMNOPQRSVX",
+    "original": "Mantel",
+    "gender": "der",
+    "translation": "Пальто",
+    "plural": "Mäntel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA6BCDEFGHIKLMNOPQRSVY",
+    "original": "Hut",
+    "gender": "der",
+    "translation": "Шляпа",
+    "plural": "Hüte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA7BCDEFGHIKLMNOPQRSVZ",
+    "original": "Anzug",
+    "gender": "der",
+    "translation": "Костюм",
+    "plural": "Anzüge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYA8BCDEFGHIKLMNOPQRSW0",
+    "original": "Kleid",
+    "gender": "das",
+    "translation": "Платье",
+    "plural": "Kleider",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYA9BCDEFGHIKLMNOPQRSW1",
+    "original": "Rock",
+    "gender": "der",
+    "translation": "Юбка",
+    "plural": "Röcke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAABCDEFGHIKLMNOPQRSW2",
+    "original": "Gürtel",
+    "gender": "der",
+    "translation": "Ремень, Пояс",
+    "plural": "Gürtel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYABBCDEFGHIKLMNOPQRSW3",
+    "original": "Krawatte",
+    "gender": "die",
+    "translation": "Галстук",
+    "plural": "Krawatten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYACBCDEFGHIKLMNOPQRSW4",
+    "original": "Zucker",
+    "gender": "der",
+    "translation": "Сахар",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYADBCDEFGHIKLMNOPQRSW5",
+    "original": "Salz",
+    "gender": "das",
+    "translation": "Соль",
+    "plural": "Salze",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAEBCDEFGHIKLMNOPQRSW6",
+    "original": "Pfeffer",
+    "gender": "der",
+    "translation": "Перец",
+    "plural": "Pfeffer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAFBCDEFGHIKLMNOPQRSW7",
+    "original": "Öl",
+    "gender": "das",
+    "translation": "Масло (растительное)",
+    "plural": "Öle",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAGBCDEFGHIKLMNOPQRSW8",
+    "original": "Butter",
+    "gender": "die",
+    "translation": "Масло (сливочное)",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAHBCDEFGHIKLMNOPQRSW9",
+    "original": "Käse",
+    "gender": "der",
+    "translation": "Сыр",
+    "plural": "Käse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAIBCDEFGHIKLMNOPQRSWA",
+    "original": "Wurst",
+    "gender": "die",
+    "translation": "Колбаса",
+    "plural": "Würste",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAJBCDEFGHIKLMNOPQRSWB",
+    "original": "Fleisch",
+    "gender": "das",
+    "translation": "Мясо",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAKBCDEFGHIKLMNOPQRSWC",
+    "original": "Ei",
+    "gender": "das",
+    "translation": "Яйцо",
+    "plural": "Eier",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYALBCDEFGHIKLMNOPQRSWD",
+    "original": "Gemüse",
+    "gender": "das",
+    "translation": "Овощи",
+    "plural": "Gemüse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAMBCDEFGHIKLMNOPQRSWE",
+    "original": "Obst",
+    "gender": "das",
+    "translation": "Фрукты",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYANBCDEFGHIKLMNOPQRSWF",
+    "original": "Kartoffel",
+    "gender": "die",
+    "translation": "Картофель",
+    "plural": "Kartoffeln",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAPBCDEFGHIKLMNOPQRSWG",
+    "original": "Tomate",
+    "gender": "die",
+    "translation": "Помидор",
+    "plural": "Tomaten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAQBCDEFGHIKLMNOPQRSWH",
+    "original": "Gurke",
+    "gender": "die",
+    "translation": "Огурец",
+    "plural": "Gurken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYARBCDEFGHIKLMNOPQRSWI",
+    "original": "Zwiebel",
+    "gender": "die",
+    "translation": "Лук (репчатый)",
+    "plural": "Zwiebeln",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYASBCDEFGHIKLMNOPQRSWJ",
+    "original": "Knoblauch",
+    "gender": "der",
+    "translation": "Чеснок",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYATBCDEFGHIKLMNOPQRSWK",
+    "original": "Möhre",
+    "gender": "die",
+    "translation": "Морковь",
+    "plural": "Möhren",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAUBCDEFGHIKLMNOPQRSWL",
+    "original": "Salat",
+    "gender": "der",
+    "translation": "Салат (блюдо, растение)",
+    "plural": "Salate",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAVBCDEFGHIKLMNOPQRSWM",
+    "original": "Kuchen",
+    "gender": "der",
+    "translation": "Пирог, Торт",
+    "plural": "Kuchen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAWBCDEFGHIKLMNOPQRSWN",
+    "original": "Kaffee",
+    "gender": "der",
+    "translation": "Кофе",
+    "plural": "Kaffees (Sorten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAXBCDEFGHIKLMNOPQRSWP",
+    "original": "Tee",
+    "gender": "der",
+    "translation": "Чай",
+    "plural": "Tees (Sorten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAYBCDEFGHIKLMNOPQRSWQ",
+    "original": "Saft",
+    "gender": "der",
+    "translation": "Сок",
+    "plural": "Säfte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYAZBCDEFGHIKLMNOPQRSWR",
+    "original": "Wein",
+    "gender": "der",
+    "translation": "Вино",
+    "plural": "Weine",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYB0BCDEFGHIKLMNOPQRSWS",
+    "original": "Bier",
+    "gender": "das",
+    "translation": "Пиво",
+    "plural": "Biere",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYB1BCDEFGHIKLMNOPQRSWT",
+    "original": "Geheimnis",
+    "gender": "das",
+    "translation": "Тайна, Секрет",
+    "plural": "Geheimnisse",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB2BCDEFGHIKLMNOPQRSWU",
+    "original": "Wunder",
+    "gender": "das",
+    "translation": "Чудо",
+    "plural": "Wunder",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB3BCDEFGHIKLMNOPQRSWV",
+    "original": "Gedanke",
+    "gender": "der",
+    "translation": "Мысль",
+    "plural": "Gedanken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB4BCDEFGHIKLMNOPQRSWW",
+    "original": "Gefühl",
+    "gender": "das",
+    "translation": "Чувство",
+    "plural": "Gefühle",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB5BCDEFGHIKLMNOPQRSWX",
+    "original": "Sinn",
+    "gender": "der",
+    "translation": "Смысл, Чувство (одно из пяти)",
+    "plural": "Sinne",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB6BCDEFGHIKLMNOPQRSWY",
+    "original": "Ziel",
+    "gender": "das",
+    "translation": "Цель",
+    "plural": "Ziele",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB7BCDEFGHIKLMNOPQRSWZ",
+    "original": "Weg",
+    "gender": "der",
+    "translation": "Путь, Дорога",
+    "plural": "Wege",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYB8BCDEFGHIKLMNOPQRSX0",
+    "original": "Anfang",
+    "gender": "der",
+    "translation": "Начало",
+    "plural": "Anfänge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYB9BCDEFGHIKLMNOPQRSX1",
+    "original": "Ende",
+    "gender": "das",
+    "translation": "Конец",
+    "plural": "Enden",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBABCDEFGHIKLMNOPQRSX2",
+    "original": "Mitte",
+    "gender": "die",
+    "translation": "Середина, Центр",
+    "plural": "Mitten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBBBCDEFGHIKLMNOPQRSX3",
+    "original": "Teil",
+    "gender": "der",
+    "translation": "Часть (муж.р.)",
+    "plural": "Teile",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBCBCDEFGHIKLMNOPQRSX4",
+    "original": "Teil",
+    "gender": "das",
+    "translation": "Часть, Доля (ср.р.)",
+    "plural": "Teile",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBDBCDEFGHIKLMNOPQRSX5",
+    "original": "Stück",
+    "gender": "das",
+    "translation": "Кусок, Пьеса",
+    "plural": "Stücke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBEBCDEFGHIKLMNOPQRSX6",
+    "original": "Rest",
+    "gender": "der",
+    "translation": "Остаток",
+    "plural": "Reste",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBFBCDEFGHIKLMNOPQRSX7",
+    "original": "Menge",
+    "gender": "die",
+    "translation": "Количество, Множество, Толпа",
+    "plural": "Mengen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBGBCDEFGHIKLMNOPQRSX8",
+    "original": "Zahl",
+    "gender": "die",
+    "translation": "Число, Цифра",
+    "plural": "Zahlen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBHBCDEFGHIKLMNOPQRSX9",
+    "original": "Nummer",
+    "gender": "die",
+    "translation": "Номер",
+    "plural": "Nummern",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBIBCDEFGHIKLMNOPQRSXA",
+    "original": "Gruppe",
+    "gender": "die",
+    "translation": "Группа",
+    "plural": "Gruppen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBJBCDEFGHIKLMNOPQRSXB",
+    "original": "Paar",
+    "gender": "das",
+    "translation": "Пара",
+    "plural": "Paare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBKBCDEFGHIKLMNOPQRSXC",
+    "original": "Abschnitt",
+    "gender": "der",
+    "translation": "Раздел, Отрезок, Абзац",
+    "plural": "Abschnitte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBLBCDEFGHIKLMNOPQRSXD",
+    "original": "Kapitel",
+    "gender": "das",
+    "translation": "Глава (книги)",
+    "plural": "Kapitel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBMBCDEFGHIKLMNOPQRSXE",
+    "original": "Seite",
+    "gender": "die",
+    "translation": "Страница, Сторона",
+    "plural": "Seiten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYBNBCDEFGHIKLMNOPQRSXF",
+    "original": "Zeile",
+    "gender": "die",
+    "translation": "Строка",
+    "plural": "Zeilen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBPBCDEFGHIKLMNOPQRSXG",
+    "original": "System",
+    "gender": "das",
+    "translation": "Система",
+    "plural": "Systeme",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBQBCDEFGHIKLMNOPQRSXH",
+    "original": "Methode",
+    "gender": "die",
+    "translation": "Метод",
+    "plural": "Methoden",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBRBCDEFGHIKLMNOPQRSXI",
+    "original": "Grund",
+    "gender": "der",
+    "translation": "Причина, Основание, Земля",
+    "plural": "Gründe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBSBCDEFGHIKLMNOPQRSXJ",
+    "original": "Ursache",
+    "gender": "die",
+    "translation": "Причина (глубинная)",
+    "plural": "Ursachen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYBTBCDEFGHIKLMNOPQRSXK",
+    "original": "Folge",
+    "gender": "die",
+    "translation": "Следствие, Результат, Серия (фильма)",
+    "plural": "Folgen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBUBCDEFGHIKLMNOPQRSXL",
+    "original": "Wirkung",
+    "gender": "die",
+    "translation": "Действие, Эффект",
+    "plural": "Wirkungen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYBVBCDEFGHIKLMNOPQRSXM",
+    "original": "Möglichkeit",
+    "gender": "die",
+    "translation": "Возможность",
+    "plural": "Möglichkeiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBWBCDEFGHIKLMNOPQRSXN",
+    "original": "Bedingung",
+    "gender": "die",
+    "translation": "Условие",
+    "plural": "Bedingungen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYBXBCDEFGHIKLMNOPQRSXP",
+    "original": "Unterschied",
+    "gender": "der",
+    "translation": "Разница, Различие",
+    "plural": "Unterschiede",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYBYBCDEFGHIKLMNOPQRSXQ",
+    "original": "Gemeinsamkeit",
+    "gender": "die",
+    "translation": "Общность",
+    "plural": "Gemeinsamkeiten",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYBZBCDEFGHIKLMNOPQRSXR",
+    "original": "Vorteil",
+    "gender": "der",
+    "translation": "Преимущество",
+    "plural": "Vorteile",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC0BCDEFGHIKLMNOPQRSXS",
+    "original": "Nachteil",
+    "gender": "der",
+    "translation": "Недостаток",
+    "plural": "Nachteile",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC1BCDEFGHIKLMNOPQRSXT",
+    "original": "Bedeutung",
+    "gender": "die",
+    "translation": "Значение, Важность",
+    "plural": "Bedeutungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC2BCDEFGHIKLMNOPQRSXU",
+    "original": "Wert",
+    "gender": "der",
+    "translation": "Ценность, Значение",
+    "plural": "Werte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC3BCDEFGHIKLMNOPQRSXV",
+    "original": "Preis",
+    "gender": "der",
+    "translation": "Цена, Награда",
+    "plural": "Preise",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYC4BCDEFGHIKLMNOPQRSXW",
+    "original": "Kosten",
+    "gender": "die",
+    "translation": "Расходы, Затраты (обычно во мн.ч.)",
+    "plural": "Kosten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC5BCDEFGHIKLMNOPQRSXX",
+    "original": "Gewinn",
+    "gender": "der",
+    "translation": "Прибыль, Выигрыш",
+    "plural": "Gewinne",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC6BCDEFGHIKLMNOPQRSXY",
+    "original": "Verlust",
+    "gender": "der",
+    "translation": "Потеря, Убыток",
+    "plural": "Verluste",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC7BCDEFGHIKLMNOPQRSXZ",
+    "original": "Angebot",
+    "gender": "das",
+    "translation": "Предложение (товар, услуга)",
+    "plural": "Angebote",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYC8BCDEFGHIKLMNOPQRSY0",
+    "original": "Nachfrage",
+    "gender": "die",
+    "translation": "Спрос",
+    "plural": "Nachfragen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYC9BCDEFGHIKLMNOPQRSY1",
+    "original": "Kunde",
+    "gender": "der",
+    "translation": "Клиент, Покупатель",
+    "plural": "Kunden",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCABCDEFGHIKLMNOPQRSY2",
+    "original": "Verkäufer",
+    "gender": "der",
+    "translation": "Продавец",
+    "plural": "Verkäufer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCBBCDEFGHIKLMNOPQRSY3",
+    "original": "Vertrag",
+    "gender": "der",
+    "translation": "Договор, Контракт",
+    "plural": "Verträge",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYCCBCDEFGHIKLMNOPQRSY4",
+    "original": "Rechnung",
+    "gender": "die",
+    "translation": "Счет (на оплату), Расчет",
+    "plural": "Rechnungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCDBCDEFGHIKLMNOPQRSY5",
+    "original": "Bestellung",
+    "gender": "die",
+    "translation": "Заказ",
+    "plural": "Bestellungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCEBCDEFGHIKLMNOPQRSY6",
+    "original": "Lieferung",
+    "gender": "die",
+    "translation": "Доставка",
+    "plural": "Lieferungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCFBCDEFGHIKLMNOPQRSY7",
+    "original": "Werbung",
+    "gender": "die",
+    "translation": "Реклама",
+    "plural": "Werbungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCGBCDEFGHIKLMNOPQRSY8",
+    "original": "Nachricht",
+    "gender": "die",
+    "translation": "Сообщение, Новость",
+    "plural": "Nachrichten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCHBCDEFGHIKLMNOPQRSY9",
+    "original": "Brief",
+    "gender": "der",
+    "translation": "Письмо",
+    "plural": "Briefe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCIBCDEFGHIKLMNOPQRSYA",
+    "original": "E-Mail",
+    "gender": "die",
+    "translation": "Электронное письмо",
+    "plural": "E-Mails",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCJBCDEFGHIKLMNOPQRSYB",
+    "original": "Telefon",
+    "gender": "das",
+    "translation": "Телефон",
+    "plural": "Telefone",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCKBCDEFGHIKLMNOPQRSYC",
+    "original": "Anruf",
+    "gender": "der",
+    "translation": "Звонок (телефонный)",
+    "plural": "Anrufe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCLBCDEFGHIKLMNOPQRSYD",
+    "original": "Gespräch",
+    "gender": "das",
+    "translation": "Разговор, Беседа",
+    "plural": "Gespräche",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCMBCDEFGHIKLMNOPQRSYE",
+    "original": "Diskussion",
+    "gender": "die",
+    "translation": "Дискуссия",
+    "plural": "Diskussionen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCNBCDEFGHIKLMNOPQRSYF",
+    "original": "Meinung",
+    "gender": "die",
+    "translation": "Мнение",
+    "plural": "Meinungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCPBCDEFGHIKLMNOPQRSYG",
+    "original": "Vorschlag",
+    "gender": "der",
+    "translation": "Предложение (идея)",
+    "plural": "Vorschläge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCQBCDEFGHIKLMNOPQRSYH",
+    "original": "Entscheidung",
+    "gender": "die",
+    "translation": "Решение (принятое)",
+    "plural": "Entscheidungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCRBCDEFGHIKLMNOPQRSYI",
+    "original": "Plan",
+    "gender": "der",
+    "translation": "План",
+    "plural": "Pläne",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCSBCDEFGHIKLMNOPQRSYJ",
+    "original": "Projekt",
+    "gender": "das",
+    "translation": "Проект",
+    "plural": "Projekte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCTBCDEFGHIKLMNOPQRSYK",
+    "original": "Aufgabe",
+    "gender": "die",
+    "translation": "Задача, Задание",
+    "plural": "Aufgaben",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCUBCDEFGHIKLMNOPQRSYL",
+    "original": "Übung",
+    "gender": "die",
+    "translation": "Упражнение",
+    "plural": "Übungen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCVBCDEFGHIKLMNOPQRSYM",
+    "original": "Test",
+    "gender": "der",
+    "translation": "Тест, Экзамен",
+    "plural": "Tests / Teste",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYCWBCDEFGHIKLMNOPQRSYN",
+    "original": "Prüfung",
+    "gender": "die",
+    "translation": "Экзамен, Проверка",
+    "plural": "Prüfungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCXBCDEFGHIKLMNOPQRSYP",
+    "original": "Ergebnis",
+    "gender": "das",
+    "translation": "Результат",
+    "plural": "Ergebnisse",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCYBCDEFGHIKLMNOPQRSYQ",
+    "original": "Erfolg",
+    "gender": "der",
+    "translation": "Успех",
+    "plural": "Erfolge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYCZBCDEFGHIKLMNOPQRSYR",
+    "original": "Misserfolg",
+    "gender": "der",
+    "translation": "Неудача, Провал",
+    "plural": "Misserfolge",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYD0BCDEFGHIKLMNOPQRSYS",
+    "original": "Fehler",
+    "gender": "der",
+    "translation": "Ошибка",
+    "plural": "Fehler",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYD1BCDEFGHIKLMNOPQRSYT",
+    "original": "Schwierigkeit",
+    "gender": "die",
+    "translation": "Трудность",
+    "plural": "Schwierigkeiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD2BCDEFGHIKLMNOPQRSYU",
+    "original": "Gefahr",
+    "gender": "die",
+    "translation": "Опасность",
+    "plural": "Gefahren",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD3BCDEFGHIKLMNOPQRSYV",
+    "original": "Sicherheit",
+    "gender": "die",
+    "translation": "Безопасность, Уверенность",
+    "plural": "Sicherheiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD4BCDEFGHIKLMNOPQRSYW",
+    "original": "Vertrauen",
+    "gender": "das",
+    "translation": "Доверие",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD5BCDEFGHIKLMNOPQRSYX",
+    "original": "Zweifel",
+    "gender": "der",
+    "translation": "Сомнение",
+    "plural": "Zweifel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD6BCDEFGHIKLMNOPQRSYY",
+    "original": "Hoffnung",
+    "gender": "die",
+    "translation": "Надежда",
+    "plural": "Hoffnungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD7BCDEFGHIKLMNOPQRSYZ",
+    "original": "Wunsch",
+    "gender": "der",
+    "translation": "Желание",
+    "plural": "Wünsche",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYD8BCDEFGHIKLMNOPQRSZ0",
+    "original": "Erinnerung",
+    "gender": "die",
+    "translation": "Воспоминание, Память",
+    "plural": "Erinnerungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYD9BCDEFGHIKLMNOPQRSZ1",
+    "original": "Zukunft",
+    "gender": "die",
+    "translation": "Будущее",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYDABCDEFGHIKLMNOPQRSZ2",
+    "original": "Vergangenheit",
+    "gender": "die",
+    "translation": "Прошлое",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYDBBCDEFGHIKLMNOPQRSZ3",
+    "original": "Gegenwart",
+    "gender": "die",
+    "translation": "Настоящее (время)",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYDCBCDEFGHIKLMNOPQRSZ4",
+    "original": "Moment",
+    "gender": "der",
+    "translation": "Момент, Мгновение",
+    "plural": "Momente",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYDDBCDEFGHIKLMNOPQRSZ5",
+    "original": "Augenblick",
+    "gender": "der",
+    "translation": "Мгновение, Миг",
+    "plural": "Augenblicke",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE01PQRSTAABCDEFGHJKLMNP",
+    "original": "Ingenieur",
+    "gender": "der",
+    "translation": "Инженер",
+    "plural": "Ingenieure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE02PQRSTAABCDEFGHJKLMNQ",
+    "original": "Künstler",
+    "gender": "der",
+    "translation": "Художник",
+    "plural": "Künstler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE03PQRSTAABCDEFGHJKLMNR",
+    "original": "Musiker",
+    "gender": "der",
+    "translation": "Музыкант",
+    "plural": "Musiker",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE04PQRSTAABCDEFGHJKLMNS",
+    "original": "Bäcker",
+    "gender": "der",
+    "translation": "Пекарь",
+    "plural": "Bäcker",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE05PQRSTAABCDEFGHJKLMNT",
+    "original": "Koch",
+    "gender": "der",
+    "translation": "Повар",
+    "plural": "Köche",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE06PQRSTAABCDEFGHJKLMNV",
+    "original": "Polizist",
+    "gender": "der",
+    "translation": "Полицейский",
+    "plural": "Polizisten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE07PQRSTAABCDEFGHJKLMNW",
+    "original": "Feuerwehrmann",
+    "gender": "der",
+    "translation": "Пожарный",
+    "plural": "Feuerwehrmänner",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE08PQRSTAABCDEFGHJKLMNX",
+    "original": "Fahrer",
+    "gender": "der",
+    "translation": "Водитель",
+    "plural": "Fahrer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE09PQRSTAABCDEFGHJKLM_NY",
+    "original": "Bauer",
+    "gender": "der",
+    "translation": "Фермер, Крестьянин",
+    "plural": "Bauern",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE10PQRSTAABCDEFGHJKLM_NZ",
+    "original": "Richter",
+    "gender": "der",
+    "translation": "Судья",
+    "plural": "Richter",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE11PQRSTAABCDEFGHJKM001",
+    "original": "Anwalt",
+    "gender": "der",
+    "translation": "Адвокат",
+    "plural": "Anwälte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE12PQRSTAABCDEFGHJKM002",
+    "original": "Kellner",
+    "gender": "der",
+    "translation": "Официант",
+    "plural": "Kellner",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE13PQRSTAABCDEFGHJKM003",
+    "original": "Friseur",
+    "gender": "der",
+    "translation": "Парикмахер",
+    "plural": "Friseure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE14PQRSTAABCDEFGHJKM004",
+    "original": "Soldat",
+    "gender": "der",
+    "translation": "Солдат",
+    "plural": "Soldaten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE15PQRSTAABCDEFGHJKM005",
+    "original": "Sänger",
+    "gender": "der",
+    "translation": "Певец",
+    "plural": "Sänger",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE16PQRSTAABCDEFGHJKM006",
+    "original": "Tänzer",
+    "gender": "der",
+    "translation": "Танцор",
+    "plural": "Tänzer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE17PQRSTAABCDEFGHJKM007",
+    "original": "Maler",
+    "gender": "der",
+    "translation": "Художник (живописец), Маляр",
+    "plural": "Maler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE18PQRSTAABCDEFGHJKM008",
+    "original": "Sportler",
+    "gender": "der",
+    "translation": "Спортсмен",
+    "plural": "Sportler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE19PQRSTAABCDEFGHJKM009",
+    "original": "Pferd",
+    "gender": "das",
+    "translation": "Лошадь",
+    "plural": "Pferde",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE20PQRSTAABCDEFGHJKM010",
+    "original": "Kuh",
+    "gender": "die",
+    "translation": "Корова",
+    "plural": "Kühe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE21PQRSTAABCDEFGHJKM011",
+    "original": "Schaf",
+    "gender": "das",
+    "translation": "Овца",
+    "plural": "Schafe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE22PQRSTAABCDEFGHJKM012",
+    "original": "Schwein",
+    "gender": "das",
+    "translation": "Свинья",
+    "plural": "Schweine",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE23PQRSTAABCDEFGHJKM013",
+    "original": "Maus",
+    "gender": "die",
+    "translation": "Мышь",
+    "plural": "Mäuse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE24PQRSTAABCDEFGHJKM014",
+    "original": "Elefant",
+    "gender": "der",
+    "translation": "Слон",
+    "plural": "Elefanten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE25PQRSTAABCDEFGHJKM015",
+    "original": "Löwe",
+    "gender": "der",
+    "translation": "Лев",
+    "plural": "Löwen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE26PQRSTAABCDEFGHJKM016",
+    "original": "Bär",
+    "gender": "der",
+    "translation": "Медведь",
+    "plural": "Bären",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE27PQRSTAABCDEFGHJKM017",
+    "original": "Wolf",
+    "gender": "der",
+    "translation": "Волк",
+    "plural": "Wölfe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE28PQRSTAABCDEFGHJKM018",
+    "original": "Fuchs",
+    "gender": "der",
+    "translation": "Лиса",
+    "plural": "Füchse",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE29PQRSTAABCDEFGHJKM019",
+    "original": "Hase",
+    "gender": "der",
+    "translation": "Заяц",
+    "plural": "Hasen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE30PQRSTAABCDEFGHJKM020",
+    "original": "Ente",
+    "gender": "die",
+    "translation": "Утка",
+    "plural": "Enten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE31PQRSTAABCDEFGHJKM021",
+    "original": "Huhn",
+    "gender": "das",
+    "translation": "Курица",
+    "plural": "Hühner",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYE32PQRSTAABCDEFGHJKM022",
+    "original": "Affe",
+    "gender": "der",
+    "translation": "Обезьяна",
+    "plural": "Affen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE33PQRSTAABCDEFGHJKM023",
+    "original": "Schlange",
+    "gender": "die",
+    "translation": "Змея",
+    "plural": "Schlangen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE34PQRSTAABCDEFGHJKM024",
+    "original": "Insekt",
+    "gender": "das",
+    "translation": "Насекомое",
+    "plural": "Insekten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE35PQRSTAABCDEFGHJKM025",
+    "original": "Spinne",
+    "gender": "die",
+    "translation": "Паук",
+    "plural": "Spinnen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE36PQRSTAABCDEFGHJKM026",
+    "original": "Schmetterling",
+    "gender": "der",
+    "translation": "Бабочка",
+    "plural": "Schmetterlinge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE37PQRSTAABCDEFGHJKM027",
+    "original": "Biene",
+    "gender": "die",
+    "translation": "Пчела",
+    "plural": "Bienen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE38PQRSTAABCDEFGHJKM028",
+    "original": "Ameise",
+    "gender": "die",
+    "translation": "Муравей",
+    "plural": "Ameisen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE39PQRSTAABCDEFGHJKM029",
+    "original": "Käfer",
+    "gender": "der",
+    "translation": "Жук",
+    "plural": "Käfer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYE40PQRSTAABCDEFGHJKM030",
+    "original": "Reis",
+    "gender": "der",
+    "translation": "Рис",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF01PQRSTAABCDEFGHJKM031",
+    "original": "Nudel",
+    "gender": "die",
+    "translation": "Лапша, Макароны",
+    "plural": "Nudeln",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF02PQRSTAABCDEFGHJKM032",
+    "original": "Suppe",
+    "gender": "die",
+    "translation": "Суп",
+    "plural": "Suppen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF03PQRSTAABCDEFGHJKM033",
+    "original": "Soße",
+    "gender": "die",
+    "translation": "Соус",
+    "plural": "Soßen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF04PQRSTAABCDEFGHJKM034",
+    "original": "Honig",
+    "gender": "der",
+    "translation": "Мёд",
+    "plural": "Honige (selten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF05PQRSTAABCDEFGHJKM035",
+    "original": "Marmelade",
+    "gender": "die",
+    "translation": "Джем, Мармелад",
+    "plural": "Marmeladen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF06PQRSTAABCDEFGHJKM036",
+    "original": "Joghurt",
+    "gender": "der",
+    "translation": "Йогурт",
+    "plural": "Joghurts",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF07PQRSTAABCDEFGHJKM037",
+    "original": "Schokolade",
+    "gender": "die",
+    "translation": "Шоколад",
+    "plural": "Schokoladen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF08PQRSTAABCDEFGHJKM038",
+    "original": "Eis",
+    "gender": "das",
+    "translation": "Мороженое, Лёд",
+    "plural": "(kein Plural für Speiseeis)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF09PQRSTAABCDEFGHJKM039",
+    "original": "Getränk",
+    "gender": "das",
+    "translation": "Напиток",
+    "plural": "Getränke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF10PQRSTAABCDEFGHJKM040",
+    "original": "Keks",
+    "gender": "der",
+    "translation": "Печенье",
+    "plural": "Kekse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF11PQRSTAABCDEFGHJKM041",
+    "original": "Zitrone",
+    "gender": "die",
+    "translation": "Лимон",
+    "plural": "Zitronen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF12PQRSTAABCDEFGHJKM042",
+    "original": "Orange",
+    "gender": "die",
+    "translation": "Апельсин (фрукт)",
+    "plural": "Orangen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF13PQRSTAABCDEFGHJKM043",
+    "original": "Erdbeere",
+    "gender": "die",
+    "translation": "Клубника",
+    "plural": "Erdbeeren",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF14PQRSTAABCDEFGHJKM044",
+    "original": "Pilz",
+    "gender": "der",
+    "translation": "Гриб",
+    "plural": "Pilze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF15PQRSTAABCDEFGHJKM045",
+    "original": "Mehl",
+    "gender": "das",
+    "translation": "Мука",
+    "plural": "Mehle (Sorten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF16PQRSTAABCDEFGHJKM046",
+    "original": "Essig",
+    "gender": "der",
+    "translation": "Уксус",
+    "plural": "Essige",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF17PQRSTAABCDEFGHJKM047",
+    "original": "Gewürz",
+    "gender": "das",
+    "translation": "Пряность, Специя",
+    "plural": "Gewürze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF18PQRSTAABCDEFGHJKM048",
+    "original": "Kirsche",
+    "gender": "die",
+    "translation": "Вишня",
+    "plural": "Kirschen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF19PQRSTAABCDEFGHJKM049",
+    "original": "Traube",
+    "gender": "die",
+    "translation": "Виноградина",
+    "plural": "Trauben",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF20PQRSTAABCDEFGHJKM050",
+    "original": "Nuss",
+    "gender": "die",
+    "translation": "Орех",
+    "plural": "Nüsse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF21PQRSTAABCDEFGHJKM051",
+    "original": "Bohne",
+    "gender": "die",
+    "translation": "Фасоль, Боб",
+    "plural": "Bohnen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF22PQRSTAABCDEFGHJKM052",
+    "original": "Erbse",
+    "gender": "die",
+    "translation": "Горох",
+    "plural": "Erbsen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF23PQRSTAABCDEFGHJKM053",
+    "original": "Lauch",
+    "gender": "der",
+    "translation": "Лук-порей",
+    "plural": "Lauche",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF24PQRSTAABCDEFGHJKM054",
+    "original": "Paprika",
+    "gender": "die",
+    "translation": "Перец (овощ)",
+    "plural": "Paprikas",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF25PQRSTAABCDEFGHJKM055",
+    "original": "Stein",
+    "gender": "der",
+    "translation": "Камень",
+    "plural": "Steine",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF26PQRSTAABCDEFGHJKM056",
+    "original": "Sand",
+    "gender": "der",
+    "translation": "Песок",
+    "plural": "Sande (selten, Arten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF27PQRSTAABCDEFGHJKM057",
+    "original": "Insel",
+    "gender": "die",
+    "translation": "Остров",
+    "plural": "Inseln",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYF28PQRSTAABCDEFGHJKM058",
+    "original": "Küste",
+    "gender": "die",
+    "translation": "Побережье",
+    "plural": "Küsten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF29PQRSTAABCDEFGHJKM059",
+    "original": "Wüste",
+    "gender": "die",
+    "translation": "Пустыня",
+    "plural": "Wüsten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYF30PQRSTAABCDEFGHJKM060",
+    "original": "Tal",
+    "gender": "das",
+    "translation": "Долина",
+    "plural": "Täler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG01PQRSTAABCDEFGHJKM061",
+    "original": "Wolke",
+    "gender": "die",
+    "translation": "Облако",
+    "plural": "Wolken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG02PQRSTAABCDEFGHJKM062",
+    "original": "Gewitter",
+    "gender": "das",
+    "translation": "Гроза",
+    "plural": "Gewitter",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG03PQRSTAABCDEFGHJKM063",
+    "original": "Blitz",
+    "gender": "der",
+    "translation": "Молния",
+    "plural": "Blitze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG04PQRSTAABCDEFGHJKM064",
+    "original": "Donner",
+    "gender": "der",
+    "translation": "Гром",
+    "plural": "Donner",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG05PQRSTAABCDEFGHJKM065",
+    "original": "Nebel",
+    "gender": "der",
+    "translation": "Туман",
+    "plural": "Nebel",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG06PQRSTAABCDEFGHJKM066",
+    "original": "Quelle",
+    "gender": "die",
+    "translation": "Источник, Родник",
+    "plural": "Quellen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG07PQRSTAABCDEFGHJKM067",
+    "original": "Blatt",
+    "gender": "das",
+    "translation": "Лист (дерева, бумаги)",
+    "plural": "Blätter",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG08PQRSTAABCDEFGHJKM068",
+    "original": "Wurzel",
+    "gender": "die",
+    "translation": "Корень",
+    "plural": "Wurzeln",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG09PQRSTAABCDEFGHJKM069",
+    "original": "Bett",
+    "gender": "das",
+    "translation": "Кровать",
+    "plural": "Betten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG10PQRSTAABCDEFGHJKM070",
+    "original": "Schrank",
+    "gender": "der",
+    "translation": "Шкаф",
+    "plural": "Schränke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG11PQRSTAABCDEFGHJKM071",
+    "original": "Lampe",
+    "gender": "die",
+    "translation": "Лампа",
+    "plural": "Lampen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG12PQRSTAABCDEFGHJKM072",
+    "original": "Teppich",
+    "gender": "der",
+    "translation": "Ковер",
+    "plural": "Teppiche",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG13PQRSTAABCDEFGHJKM073",
+    "original": "Vorhang",
+    "gender": "der",
+    "translation": "Занавеска, Штора",
+    "plural": "Vorhänge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG14PQRSTAABCDEFGHJKM074",
+    "original": "Spiegel",
+    "gender": "der",
+    "translation": "Зеркало",
+    "plural": "Spiegel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG15PQRSTAABCDEFGHJKM075",
+    "original": "Kissen",
+    "gender": "das",
+    "translation": "Подушка",
+    "plural": "Kissen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG16PQRSTAABCDEFGHJKM076",
+    "original": "Decke",
+    "gender": "die",
+    "translation": "Одеяло, Потолок",
+    "plural": "Decken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG17PQRSTAABCDEFGHJKM077",
+    "original": "Regal",
+    "gender": "das",
+    "translation": "Полка",
+    "plural": "Regale",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG18PQRSTAABCDEFGHJKM078",
+    "original": "Mülleimer",
+    "gender": "der",
+    "translation": "Мусорное ведро",
+    "plural": "Mülleimer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYG19PQRSTAABCDEFGHJKM079",
+    "original": "Seife",
+    "gender": "die",
+    "translation": "Мыло",
+    "plural": "Seifen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYG20PQRSTAABCDEFGHJKM080",
+    "original": "Handtuch",
+    "gender": "das",
+    "translation": "Полотенце",
+    "plural": "Handtücher",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH01PQRSTAABCDEFGHJKM081",
+    "original": "Zahnbürste",
+    "gender": "die",
+    "translation": "Зубная щетка",
+    "plural": "Zahnbürsten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYH02PQRSTAABCDEFGHJKM082",
+    "original": "Zahnpasta",
+    "gender": "die",
+    "translation": "Зубная паста",
+    "plural": "Zahnpasten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYH03PQRSTAABCDEFGHJKM083",
+    "original": "Wand",
+    "gender": "die",
+    "translation": "Стена",
+    "plural": "Wände",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH04PQRSTAABCDEFGHJKM084",
+    "original": "Boden",
+    "gender": "der",
+    "translation": "Пол, Земля",
+    "plural": "Böden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH05PQRSTAABCDEFGHJKM085",
+    "original": "Dach",
+    "gender": "das",
+    "translation": "Крыша",
+    "plural": "Dächer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH06PQRSTAABCDEFGHJKM086",
+    "original": "Treppe",
+    "gender": "die",
+    "translation": "Лестница",
+    "plural": "Treppen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH07PQRSTAABCDEFGHJKM087",
+    "original": "Heizung",
+    "gender": "die",
+    "translation": "Отопление",
+    "plural": "Heizungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYH08PQRSTAABCDEFGHJKM088",
+    "original": "Werkzeug",
+    "gender": "das",
+    "translation": "Инструмент",
+    "plural": "Werkzeuge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYH09PQRSTAABCDEFGHJKM089",
+    "original": "Socke",
+    "gender": "die",
+    "translation": "Носок",
+    "plural": "Socken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH10PQRSTAABCDEFGHJKM090",
+    "original": "Handschuh",
+    "gender": "der",
+    "translation": "Перчатка",
+    "plural": "Handschuhe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH11PQRSTAABCDEFGHJKM091",
+    "original": "Schal",
+    "gender": "der",
+    "translation": "Шарф",
+    "plural": "Schals",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH12PQRSTAABCDEFGHJKM092",
+    "original": "Mütze",
+    "gender": "die",
+    "translation": "Шапка (вязаная)",
+    "plural": "Mützen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH13PQRSTAABCDEFGHJKM093",
+    "original": "Pullover",
+    "gender": "der",
+    "translation": "Свитер",
+    "plural": "Pullover",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH14PQRSTAABCDEFGHJKM094",
+    "original": "T-Shirt",
+    "gender": "das",
+    "translation": "Футболка",
+    "plural": "T-Shirts",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH15PQRSTAABCDEFGHJKM095",
+    "original": "Jeans",
+    "gender": "die",
+    "translation": "Джинсы",
+    "plural": "Jeans",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH16PQRSTAABCDEFGHJKM096",
+    "original": "Stiefel",
+    "gender": "der",
+    "translation": "Сапог, Ботинок",
+    "plural": "Stiefel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH17PQRSTAABCDEFGHJKM097",
+    "original": "Bahnhof",
+    "gender": "der",
+    "translation": "Вокзал",
+    "plural": "Bahnhöfe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH18PQRSTAABCDEFGHJKM098",
+    "original": "Flughafen",
+    "gender": "der",
+    "translation": "Аэропорт",
+    "plural": "Flughäfen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYH19PQRSTAABCDEFGHJKM099",
+    "original": "Hotel",
+    "gender": "das",
+    "translation": "Отель, Гостиница",
+    "plural": "Hotels",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYH20PQRSTAABCDEFGHJKM100",
+    "original": "Restaurant",
+    "gender": "das",
+    "translation": "Ресторан",
+    "plural": "Restaurants",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ01PQRSTAABCDEFGHJKM101",
+    "original": "Museum",
+    "gender": "das",
+    "translation": "Музей",
+    "plural": "Museen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ02PQRSTAABCDEFGHJKM102",
+    "original": "Theater",
+    "gender": "das",
+    "translation": "Театр",
+    "plural": "Theater",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ03PQRSTAABCDEFGHJKM103",
+    "original": "Kino",
+    "gender": "das",
+    "translation": "Кинотеатр",
+    "plural": "Kinos",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ04PQRSTAABCDEFGHJKM104",
+    "original": "Park",
+    "gender": "der",
+    "translation": "Парк",
+    "plural": "Parks",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ05PQRSTAABCDEFGHJKM105",
+    "original": "Platz",
+    "gender": "der",
+    "translation": "Площадь, Место",
+    "plural": "Plätze",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ06PQRSTAABCDEFGHJKM106",
+    "original": "Bank",
+    "gender": "die",
+    "translation": "Банк (финанс.), Скамья",
+    "plural": "Banken / Bänke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ07PQRSTAABCDEFGHJKM107",
+    "original": "Post",
+    "gender": "die",
+    "translation": "Почта",
+    "plural": "(selten Posten)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ08PQRSTAABCDEFGHJKM108",
+    "original": "Fabrik",
+    "gender": "die",
+    "translation": "Фабрика, Завод",
+    "plural": "Fabriken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ09PQRSTAABCDEFGHJKM109",
+    "original": "Werkstatt",
+    "gender": "die",
+    "translation": "Мастерская",
+    "plural": "Werkstätten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ10PQRSTAABCDEFGHJKM110",
+    "original": "Apotheke",
+    "gender": "die",
+    "translation": "Аптека",
+    "plural": "Apotheken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ11PQRSTAABCDEFGHJKM111",
+    "original": "Supermarkt",
+    "gender": "der",
+    "translation": "Супермаркет",
+    "plural": "Supermärkte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ12PQRSTAABCDEFGHJKM112",
+    "original": "Spielplatz",
+    "gender": "der",
+    "translation": "Детская площадка",
+    "plural": "Spielplätze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ13PQRSTAABCDEFGHJKM113",
+    "original": "Gefängnis",
+    "gender": "das",
+    "translation": "Тюрьма",
+    "plural": "Gefängnisse",
+    "difficulty": "hard"
+  },
+  {
+    "id": "01HGYJ14PQRSTAABCDEFGHJKM114",
+    "original": "Rathaus",
+    "gender": "das",
+    "translation": "Ратуша, Мэрия",
+    "plural": "Rathäuser",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYJ15PQRSTAABCDEFGHJKM115",
+    "original": "Arm",
+    "gender": "der",
+    "translation": "Рука (от плеча до кисти)",
+    "plural": "Arme",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ16PQRSTAABCDEFGHJKM116",
+    "original": "Bein",
+    "gender": "das",
+    "translation": "Нога (от бедра до стопы)",
+    "plural": "Beine",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ17PQRSTAABCDEFGHJKM117",
+    "original": "Finger",
+    "gender": "der",
+    "translation": "Палец (руки)",
+    "plural": "Finger",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ18PQRSTAABCDEFGHJKM118",
+    "original": "Haar",
+    "gender": "das",
+    "translation": "Волос",
+    "plural": "Haare",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ19PQRSTAABCDEFGHJKM119",
+    "original": "Zahn",
+    "gender": "der",
+    "translation": "Зуб",
+    "plural": "Zähne",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYJ20PQRSTAABCDEFGHJKM120",
+    "original": "Herz",
+    "gender": "das",
+    "translation": "Сердце",
+    "plural": "Herzen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK01PQRSTAABCDEFGHJKM121",
+    "original": "Rücken",
+    "gender": "der",
+    "translation": "Спина",
+    "plural": "Rücken",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK02PQRSTAABCDEFGHJKM122",
+    "original": "Hals",
+    "gender": "der",
+    "translation": "Шея, Горло",
+    "plural": "Hälse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK03PQRSTAABCDEFGHJKM123",
+    "original": "Schulter",
+    "gender": "die",
+    "translation": "Плечо",
+    "plural": "Schultern",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK04PQRSTAABCDEFGHJKM124",
+    "original": "Knie",
+    "gender": "das",
+    "translation": "Колено",
+    "plural": "Knie",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK05PQRSTAABCDEFGHJKM125",
+    "original": "Lippe",
+    "gender": "die",
+    "translation": "Губа",
+    "plural": "Lippen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK06PQRSTAABCDEFGHJKM126",
+    "original": "Zunge",
+    "gender": "die",
+    "translation": "Язык (орган)",
+    "plural": "Zungen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK07PQRSTAABCDEFGHJKM127",
+    "original": "Gehirn",
+    "gender": "das",
+    "translation": "Мозг",
+    "plural": "Gehirne",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK08PQRSTAABCDEFGHJKM128",
+    "original": "Blut",
+    "gender": "das",
+    "translation": "Кровь",
+    "plural": "(kein Plural)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK09PQRSTAABCDEFGHJKM129",
+    "original": "Knochen",
+    "gender": "der",
+    "translation": "Кость",
+    "plural": "Knochen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK10PQRSTAABCDEFGHJKM130",
+    "original": "Ordnung",
+    "gender": "die",
+    "translation": "Порядок",
+    "plural": "Ordnungen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK11PQRSTAABCDEFGHJKM131",
+    "original": "Freiheit",
+    "gender": "die",
+    "translation": "Свобода",
+    "plural": "Freiheiten",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK12PQRSTAABCDEFGHJKM132",
+    "original": "Macht",
+    "gender": "die",
+    "translation": "Власть, Сила",
+    "plural": "Mächte",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK13PQRSTAABCDEFGHJKM133",
+    "original": "Wissen",
+    "gender": "das",
+    "translation": "Знание",
+    "plural": "(kein Plural)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK14PQRSTAABCDEFGHJKM134",
+    "original": "Glaube",
+    "gender": "der",
+    "translation": "Вера",
+    "plural": "(kein Plural außer Glaubenssätze)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK15PQRSTAABCDEFGHJKM135",
+    "original": "Seele",
+    "gender": "die",
+    "translation": "Душа",
+    "plural": "Seelen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK16PQRSTAABCDEFGHJKM136",
+    "original": "Geist",
+    "gender": "der",
+    "translation": "Дух, Привидение, Ум",
+    "plural": "Geister",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYK17PQRSTAABCDEFGHJKM137",
+    "original": "Stunde",
+    "gender": "die",
+    "translation": "Час",
+    "plural": "Stunden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK18PQRSTAABCDEFGHJKM138",
+    "original": "Minute",
+    "gender": "die",
+    "translation": "Минута",
+    "plural": "Minuten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK19PQRSTAABCDEFGHJKM139",
+    "original": "Sekunde",
+    "gender": "die",
+    "translation": "Секунда",
+    "plural": "Sekunden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYK20PQRSTAABCDEFGHJKM140",
+    "original": "Wochenende",
+    "gender": "das",
+    "translation": "Выходные",
+    "plural": "Wochenenden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL01PQRSTAABCDEFGHJKM141",
+    "original": "Feiertag",
+    "gender": "der",
+    "translation": "Праздник",
+    "plural": "Feiertage",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYL02PQRSTAABCDEFGHJKM142",
+    "original": "Datum",
+    "gender": "das",
+    "translation": "Дата",
+    "plural": "Daten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL03PQRSTAABCDEFGHJKM143",
+    "original": "Uhr",
+    "gender": "die",
+    "translation": "Часы (прибор), Время (на часах)",
+    "plural": "Uhren",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL04PQRSTAABCDEFGHJKM144",
+    "original": "Fahrrad",
+    "gender": "das",
+    "translation": "Велосипед",
+    "plural": "Fahrräder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL05PQRSTAABCDEFGHJKM145",
+    "original": "Bus",
+    "gender": "der",
+    "translation": "Автобус",
+    "plural": "Busse",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL06PQRSTAABCDEFGHJKM146",
+    "original": "U-Bahn",
+    "gender": "die",
+    "translation": "Метро",
+    "plural": "U-Bahnen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL07PQRSTAABCDEFGHJKM147",
+    "original": "Vater",
+    "gender": "der",
+    "translation": "Отец",
+    "plural": "Väter",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL08PQRSTAABCDEFGHJKM148",
+    "original": "Mutter",
+    "gender": "die",
+    "translation": "Мать",
+    "plural": "Mütter",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL09PQRSTAABCDEFGHJKM149",
+    "original": "Sohn",
+    "gender": "der",
+    "translation": "Сын",
+    "plural": "Söhne",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL10PQRSTAABCDEFGHJKM150",
+    "original": "Tochter",
+    "gender": "die",
+    "translation": "Дочь",
+    "plural": "Töchter",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL11PQRSTAABCDEFGHJKM151",
+    "original": "Bruder",
+    "gender": "der",
+    "translation": "Брат",
+    "plural": "Brüder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL12PQRSTAABCDEFGHJKM152",
+    "original": "Schwester",
+    "gender": "die",
+    "translation": "Сестра",
+    "plural": "Schwestern",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL13PQRSTAABCDEFGHJKM153",
+    "original": "Fach",
+    "gender": "das",
+    "translation": "Предмет (учебный), Отделение",
+    "plural": "Fächer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYL14PQRSTAABCDEFGHJKM154",
+    "original": "Note",
+    "gender": "die",
+    "translation": "Оценка, Нота",
+    "plural": "Noten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL15PQRSTAABCDEFGHJKM155",
+    "original": "Kugelschreiber",
+    "gender": "der",
+    "translation": "Шариковая ручка",
+    "plural": "Kugelschreiber",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL16PQRSTAABCDEFGHJKM156",
+    "original": "Bleistift",
+    "gender": "der",
+    "translation": "Карандаш",
+    "plural": "Bleistifte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL17PQRSTAABCDEFGHJKM157",
+    "original": "Heft",
+    "gender": "das",
+    "translation": "Тетрадь",
+    "plural": "Hefte",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL18PQRSTAABCDEFGHJKM158",
+    "original": "Dorf",
+    "gender": "das",
+    "translation": "Деревня",
+    "plural": "Dörfer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYL19PQRSTAABCDEFGHJKM159",
+    "original": "Stimme",
+    "gender": "die",
+    "translation": "Голос",
+    "plural": "Stimmen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYL20PQRSTAABCDEFGHJKM160",
+    "original": "Ding",
+    "gender": "das",
+    "translation": "Вещь, Дело",
+    "plural": "Dinge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYM01PQRSTAABCDEFGHJKM161",
+    "original": "Beispiel",
+    "gender": "das",
+    "translation": "Пример",
+    "plural": "Beispiele",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYM02PQRSTAABCDEFGHJKM162",
+    "original": "Licht",
+    "gender": "das",
+    "translation": "Свет",
+    "plural": "Lichter",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYM03PQRSTAABCDEFGHJKM163",
+    "original": "Zimmer",
+    "gender": "das",
+    "translation": "Комната",
+    "plural": "Zimmer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYM04PQRSTAABCDEFGHJKM164",
+    "original": "Küche",
+    "gender": "die",
+    "translation": "Кухня",
+    "plural": "Küchen",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYM05PQRSTAABCDEFGHJKM165",
+    "original": "Bad",
+    "gender": "das",
+    "translation": "Ванная, Купание",
+    "plural": "Bäder",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGYM06PQRSTAABCDEFGHJKM166",
+    "original": "Schlafzimmer",
+    "gender": "das",
+    "translation": "Спальня",
+    "plural": "Schlafzimmer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYM07PQRSTAABCDEFGHJKM167",
+    "original": "Wohnzimmer",
+    "gender": "das",
+    "translation": "Гостиная",
+    "plural": "Wohnzimmer",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYM08PQRSTAABCDEFGHJKM168",
+    "original": "Balkon",
+    "gender": "der",
+    "translation": "Балкон",
+    "plural": "Balkone",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYM09PQRSTAABCDEFGHJKM169",
+    "original": "Keller",
+    "gender": "der",
+    "translation": "Подвал",
+    "plural": "Keller",
+    "difficulty": "medium"
+  },
+  {
+    "id": "01HGYM10PQRSTAABCDEFGHJKM170",
+    "original": "Garage",
+    "gender": "die",
+    "translation": "Гараж",
+    "plural": "Garagen",
+    "difficulty": "medium"
   }
 ]

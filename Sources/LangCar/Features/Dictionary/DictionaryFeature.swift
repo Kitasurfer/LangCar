@@ -5,18 +5,23 @@ import SwiftUI
 
 public struct DictionaryState: Equatable, Sendable {
     public var words: IdentifiedArrayOf<Word> = []
-    public var search: String = ""
+    public var search = ""
+    public var error: String? = ""
     // Sheet
     @PresentationState public var addWord: AddWordState?
 }
 
+import CasePaths
+
+@CasePathable
 public enum DictionaryAction: Equatable, Sendable {
     case onAppear
-    case wordsLoaded(Result<[Word], Error>)
     case search(String)
+    case wordDeleted(IndexSet)
     case addTapped
     case addWord(PresentationAction<AddWordAction>)
-    case wordDeleted(IndexSet)
+    case wordsLoaded([Word])
+    case wordLoadError(String)
 }
 
 public struct DictionaryReducer: Reducer {
@@ -27,18 +32,23 @@ public struct DictionaryReducer: Reducer {
             switch action {
             case .onAppear:
                 return .run { [repo] send in
-                    do { let list = try await repo.load(); await send(.wordsLoaded(.success(list))) }
-                    catch { await send(.wordsLoaded(.failure(error))) }
+                    do { 
+                        let list = try await repo.load()
+                        await send(.wordsLoaded(list))
+                    } catch { 
+                        await send(.wordLoadError(error.localizedDescription))
+                    }
                 }
-            case let .wordsLoaded(.success(list)):
+            case let .wordsLoaded(list):
                 state.words = IdentifiedArray(uniqueElements: list)
                 return .none
-            case .wordsLoaded(.failure):
-                return .none  // TODO: error UI
+            case let .wordLoadError(message):
+                state.error = message
+                return .none
             case let .search(q):
                 state.search = q; return .none
             case .addTapped:
-                state.addWord = AddWordState(); return .none
+                state.addWord = .init(); return .none
             case let .wordDeleted(set):
                 state.words.remove(atOffsets: set)
                 return .run { [repo, words = state.words] _ in try await repo.save(Array(words)) }
@@ -49,7 +59,7 @@ public struct DictionaryReducer: Reducer {
             case .addWord: return .none
             }
         }
-        .ifLet(\.$addWord, action: /DictionaryAction.addWord) { AddWordReducer() }
+        .ifLet(\.$addWord, action: \.addWord) { AddWordReducer() }
     }
 }
 
@@ -58,7 +68,12 @@ public struct DictionaryView: View {
     let store: StoreOf<DictionaryReducer>
     public init(store: StoreOf<DictionaryReducer>) { self.store = store }
     public var body: some View {
-        WithViewStore(store, observe: { $0 }) { vs in
+        WithViewStore(store, observe: { $0 }, content: dictionaryContent)
+    }
+    
+    @ViewBuilder
+    private func dictionaryContent(_ vs: ViewStore<DictionaryState, DictionaryAction>) -> some View {
+        if #available(macOS 13.0, *) {
             NavigationStack {
                 List {
                     ForEach(vs.words.filter { vs.search.isEmpty ? true : $0.original.lowercased().contains(vs.search.lowercased()) || $0.translation.lowercased().contains(vs.search.lowercased()) }) { word in
@@ -70,10 +85,10 @@ public struct DictionaryView: View {
                         }
                     }.onDelete { vs.send(.wordDeleted($0)) }
                 }
-                .searchable(text: vs.binding(get: \.$search, send: DictionaryAction.search))
+                .searchable(text: vs.binding(get: \.search, send: DictionaryAction.search))
                 .navigationTitle("Словарь")
                 .toolbar { Button(action: { vs.send(.addTapped) }) { Image(systemName: "plus") } }
-                .sheet(store: store.scope(state: \.$addWord, action: DictionaryAction.addWord)) { scoped in
+                .sheet(store: store.scope(state: \.$addWord, action: \.addWord)) { scoped in
                     AddWordView(store: scoped)
                 }
             }

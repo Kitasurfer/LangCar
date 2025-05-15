@@ -16,10 +16,10 @@ struct WordOfTheDayCard: View {
             HStack {
                 Text(word.gender.rawValue)
                     .font(.subheadline)
-                    .foregroundColor(genderColor)
+                    .foregroundColor(word.gender.accentColor)
                     .padding(.horizontal, 8)
                     .padding(.vertical, 4)
-                    .background(genderColor.opacity(0.1))
+                    .background(word.gender.accentColor.opacity(0.1))
                     .cornerRadius(8)
                 
                 if let plural = word.plural {
@@ -41,9 +41,9 @@ struct WordOfTheDayCard: View {
     
     private var genderColor: Color {
         switch word.gender {
-        case .masculine: return .blue
-        case .feminine: return .red
-        case .neuter: return .green
+        case .der: return .blue
+        case .die: return .red
+        case .das: return .green
         }
     }
 }

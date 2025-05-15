@@ -20,6 +20,7 @@ public enum FlashSessionAction: Equatable, Sendable {
     case start([Word])
     case reveal
     case answer(correct: Bool)
+    case next
     case restart
 }
 
@@ -39,22 +40,22 @@ public struct FlashSessionReducer: Reducer {
                 return .none
             case let .answer(correct):
                 guard !state.finished else { return .none }
-                var card = state.queue[state.currentIndex]
-                var word = card.word
-                let prevInterval = word.nextReviewDate.flatMap { Int($0.timeIntervalSince(word.lastSeen ?? Date())/86400) } ?? 0
-                let ease = word.easeFactor ?? 2.5
-                let result = SRS.nextInterval(correct: correct, currentEase: ease, prevInterval: prevInterval)
-                word.lastSeen = Date()
-                word.easeFactor = result.ease
-                word.nextReviewDate = Calendar.current.date(byAdding: .day, value: result.interval, to: Date())
-                // persist update in background
-                return .run { [repo] _ in
+                let card = state.queue[state.currentIndex]
+                let currentWord = card.word
+                let prevInterval = currentWord.nextReviewDate.flatMap { Int($0.timeIntervalSince(currentWord.lastSeen ?? Date())/86400) } ?? 0
+                var updatedWord = currentWord
+                updatedWord.lastSeen = Date()
+                updatedWord.nextReviewDate = Calendar.current.date(byAdding: .day, value: correct ? prevInterval * 2 + 1 : 1, to: Date())
+                return .run { [repo, updatedWord] _ in
                     var all = try await repo.load()
-                    if let idx = all.firstIndex(where: { $0.id == word.id }) {
-                        all[idx] = word
+                    if let idx = all.firstIndex(where: { $0.id == updatedWord.id }) {
+                        all[idx] = updatedWord
                         try await repo.save(all)
                     }
-                }.concatenate(with: .task { state.currentIndex += 1 })
+                }.concatenate(with: Effect.send(.next))
+            case .next:
+                state.currentIndex += 1
+                return .none
             case .restart:
                 state.currentIndex = 0
                 state.queue.shuffle()
@@ -64,43 +65,4 @@ public struct FlashSessionReducer: Reducer {
     }
 }
 
-#if canImport(SwiftUI)
-public struct FlashcardsView: View {
-    let store: StoreOf<FlashSessionReducer>
-    public init(store: StoreOf<FlashSessionReducer>) { self.store = store }
-    public var body: some View {
-        WithViewStore(store, observe: { $0 }) { vs in
-            VStack {
-                if vs.finished {
-                    Text("✅ Сессия завершена").font(.title)
-                    Button("Повторить") { vs.send(.restart) }
-                } else if let card = vs.queue[safe: vs.currentIndex] {
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 16)
-                            .fill(card.word.gender.accentColor.opacity(0.15))
-                            .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            .overlay(
-                                VStack {
-                                    Text(card.word.original).font(.largeTitle).padding()
-                                    if card.revealed {
-                                        Text(card.word.translation).font(.title2).transition(.scale)
-                                    }
-                                }.animation(.spring, value: card.revealed)
-                            )
-                            .padding()
-                            .onTapGesture { vs.send(.reveal) }
-                    }
-                    HStack {
-                        Button("Не знаю") { vs.send(.answer(correct: false)) }.buttonStyle(.bordered)
-                        Button("Знаю") { vs.send(.answer(correct: true)) }.buttonStyle(.borderedProminent)
-                    }.padding()
-                } else {
-                    ProgressView().task { vs.send(.restart) }
-                }
-            }
-            .onAppear { if vs.queue.isEmpty { vs.send(.restart) } }
-            .navigationTitle("Карточки")
-        }
-    }
-}
-#endif
+

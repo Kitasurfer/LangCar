@@ -28,21 +28,6 @@ public final actor WordRepository: WordRepositoryProtocol {
     }
 }
 
-extension WordRepository: DependencyKey {
-    public static let liveValue = WordRepository()
-    
-    public static let previewValue = WordRepository()
-    public static let previewValue = WordRepository(
-        loadWords: { [] },
-        saveWord: { _ in },
-        updateWord: { _ in },
-        deleteWord: { _ in }
-    )
-}
-
-extension DependencyValues {
-    public var wordRepository: WordRepository {
-        get { self[WordRepository.self] }
-        set { self[WordRepository.self] = newValue }
-    }
+extension WordRepository {
+    public static let preview = WordRepository()
 }

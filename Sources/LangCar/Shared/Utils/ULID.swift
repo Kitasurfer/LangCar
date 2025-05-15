@@ -8,7 +8,7 @@ public struct ULID: Equatable, Hashable, Codable, Sendable {
         let ts = UInt64(date.timeIntervalSince1970 * 1000)
         precondition(ts < 1<<48, "ULID timestamp overflow")
         hi = ts << 16 | UInt64.random(in: 0..<1<<16, using: &rng)
-        lo = UInt64.random(in: .min... .max, using: &rng)
+        lo = UInt64.random(in: UInt64.min...UInt64.max, using: &rng)
     }
     public init() { var r = SystemRandomNumberGenerator(); self.init(rng: &r) }
     public var string: String {

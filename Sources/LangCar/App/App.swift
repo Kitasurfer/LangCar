@@ -1,15 +1,15 @@
 import SwiftUI
 import ComposableArchitecture
 
-@main
 struct LangCardsApp: App {
-    let store = Store(initialState: AppReducer.State()) {
-        AppReducer()
-    }
+    let repository = WordRepository()
+    let cloud: CloudSyncService? = nil
     
     var body: some Scene {
         WindowGroup {
-            AppView(store: store)
+            TabRootView(store: Store(initialState: AppState()) { 
+                AppReducer(repository: repository)
+            })
         }
     }
 }

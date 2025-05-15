@@ -1,7 +1,7 @@
 import Foundation
 
 public struct Word: Identifiable, Codable, Equatable, Sendable {
-    public let id: String              // ULID
+    public var id: String              // ULID
     public let original: String        // Немецкое
     public let gender: GermanGender
     public let translation: String     // Русский
