@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01HGW5NZQX6QT8VS5P4D4KYTK8",
+    "original": "Haus",
+    "gender": "das",
+    "translation": "Дом",
+    "plural": "Häuser",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW5NZQXB2MGJV6YQTPKZ8WN",
+    "original": "Baum",
+    "gender": "der",
+    "translation": "Дерево",
+    "plural": "Bäume",
+    "difficulty": "easy"
+  },
+  {
+    "id": "01HGW5NZQXG4RHW7Z2RVR3M9XP",
+    "original": "Blume",
+    "gender": "die",
+    "translation": "Цветок",
+    "plural": "Blumen",
+    "difficulty": "easy"
+  }
+]
